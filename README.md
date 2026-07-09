@@ -1,7 +1,7 @@
 # ארז יהלומי | Erez Yahalomi
 
-##      אינטליגנציה מלאכותית לזיהוי שברים בצילומי רנטגן ואבחון מחלות נדירות
-## AI for X-Ray Fracture Detection and Rare Diseases Diagnosis
+##      פיתוח אינטליגנציה מלאכותית לזיהוי שברים בצילומי רנטגן גרמה לי לפתוח תחום חדש: אבחון מחלות נדירות על ידי צילומי הדמיה רפואית
+## Developing AI for X-Ray Fracture Detection lead me to open new field: AI diagnosis for Rare Diseases by imaging photos
 
 ![rare diseases by Erez Yahalomi](https://media.licdn.com/dms/image/v2/D4D22AQHOceBUKJRung/feedshare-image-high-res/B4DZvdUF8xI0AU-/0/1768944590833?e=2147483647&v=beta&t=hFz6Lh7i2hjp4DkvHcczxK3o3rAeJxmbJzW6JJ8ahJo)
 
