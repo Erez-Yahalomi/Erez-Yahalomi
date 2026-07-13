@@ -1,7 +1,7 @@
 # ארז יהלומי | Erez Yahalomi
 
-##     פיתוח אינטליגנציה מלאכותית לזיהוי שברים בצילומי רנטגן גרמה לי לפתוח שני תחומים חדשים באבחון רפואי ממוחשב: 1. אבחון AI של מחלות נדירות על ידי צילומי הדמיה רפואי. 2 אבחון AI של סימפטומים נדירים של מחלות נפוצות על ידי צילומי הדמיה רפואית.
-## Developing AI for X-Ray Fracture Detection lead me to open two new fields: 1. AI diagnosis of Rare Diseases by imaging photos. 2. AI diagnosis of Rare sympthoms of Common Diseases by imaging photos
+##     התוכנה שפיתחתי, אינטליגנציה מלאכותית לזיהוי שברים ביד בצילומי רנטגן גרמה לי לפתוח שני תחומים חדשים באבחון רפואי ממוחשב: 1. אבחון AI של מחלות נדירות על ידי צילומי הדמיה רפואי. 2 אבחון AI של סימפטומים נדירים של מחלות נפוצות על ידי צילומי הדמיה רפואית.
+## The AI software I developed for X-Ray Hands Fractures Detection lead me to open two new fields: 1. AI diagnosis of Rare Diseases by imaging photos. 2. AI diagnosis of Rare sympthoms of Common Diseases by imaging photos
 
 ![rare diseases by Erez Yahalomi](https://media.licdn.com/dms/image/v2/D4D22AQHOceBUKJRung/feedshare-image-high-res/B4DZvdUF8xI0AU-/0/1768944590833?e=2147483647&v=beta&t=hFz6Lh7i2hjp4DkvHcczxK3o3rAeJxmbJzW6JJ8ahJo)
 
